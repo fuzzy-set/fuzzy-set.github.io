@@ -1,7 +1,7 @@
 module.exports = {
     title: 'fuzzy-set的博客',
-    description: '智慧旅游，智慧生活',
-	dest:'./dist',
+    description: '////',
+	dest:'./docs/.vuepress/dist',
 	repo:'git@github.com:fuzzy-set/fuzzy-set.github.io.git',
     port: '7777',
     head: [
